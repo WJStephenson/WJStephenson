@@ -1,3 +1,1 @@
-# Hi
-
-I'm an engineer building [knotworking.dev](https://knotworking.dev).
+I'm an engineer building cool stuff at [knotworking.dev](https://knotworking.dev)
